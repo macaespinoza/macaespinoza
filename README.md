@@ -22,6 +22,7 @@ Full Stack Developer en JavaScript con raíces en diseño multimedia y pasión p
 
 ### Base de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Herramientas de Desarrollo
@@ -40,29 +41,13 @@ Full Stack Developer en JavaScript con raíces en diseño multimedia y pasión p
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=macaespinoza&layout=compact&theme=radical)
 
-<!-- ## 🔥 Proyectos Destacados
-
-### [Nombre del Proyecto 1]
-[Breve descripción del proyecto]
-- 🔗 [Demo en vivo](#)
-- 💻 [Repositorio](#)
-
-### [Nombre del Proyecto 2]
-[Breve descripción del proyecto]
-- 🔗 [Demo en vivo](#)
-- 💻 [Repositorio](#)
-
-### [Nombre del Proyecto 3]
-[Breve descripción del proyecto]
-- 🔗 [Demo en vivo](#)
-- 💻 [Repositorio](#) -->
 
 ## 📫 Contacto
 
-- 📧 Email: [maca.creates@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/macaespinoza/]
-- 🌐 Portfolio: [https://macaespinoza.github.io/Portafolio_M02/]
-- 📺 Vimeo: [https://vimeo.com/macaespinoza]
+[![Email](https://img.shields.io/badge/Email-maca.creates%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maca.creates@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maca%20Espinoza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macaespinoza/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-macaespinoza.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://macaespinoza.github.io/Portafolio_M02/)
+[![Vimeo](https://img.shields.io/badge/Vimeo-macaespinoza-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/macaespinoza)
 
 ## 🎓 Educación
 
