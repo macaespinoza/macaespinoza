@@ -35,15 +35,6 @@ Full Stack Developer en JavaScript con raíces en diseño multimedia y pasión p
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-## � Lenguajes Más Usados
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=macaespinoza&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=445)
-
-</div>
-
-
 
 ## 📫 Contacto
 
@@ -81,4 +72,4 @@ Full Stack Developer en JavaScript con raíces en diseño multimedia y pasión p
 
 ---
 
-⭐️ From [macaespinoza](https://github.com/macaespinoza)
+⭐️ Gracias por visitar mi perfil 😻 [macaespinoza](https://github.com/macaespinoza)
