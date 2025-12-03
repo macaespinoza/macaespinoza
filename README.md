@@ -35,25 +35,11 @@ Full Stack Developer en JavaScript con raíces en diseño multimedia y pasión p
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=macaespinoza&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+## � Lenguajes Más Usados
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macaespinoza&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macaespinoza&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=macaespinoza&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=macaespinoza&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=445)
 
 </div>
 
