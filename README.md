@@ -45,8 +45,11 @@ Full Stack Developer en JavaScript con raíces en diseño multimedia y pasión p
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/Email-maca.creates%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maca.creates@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maca%20Espinoza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macaespinoza/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-macaespinoza.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://macaespinoza.github.io/Portafolio_M02/)
+
 [![Vimeo](https://img.shields.io/badge/Vimeo-macaespinoza-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/macaespinoza)
 
 ## 🎓 Educación
